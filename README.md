@@ -31,8 +31,6 @@ Run tests with <code>npm test</code>
 <div id="api">
   <b>Documentation<b><br>
 <br>
-Full API Documentation available here
-<a href="https://documenter.getpostman.com/view/9082879/TVmTcF8G">https://documenter.getpostman.com/view/9082879/TVmTcF8G</a>
 </div>
 <br>
 <br>
