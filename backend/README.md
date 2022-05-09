@@ -1,5 +1,5 @@
 # Shortster
 
 <p>
-A fullstack Javascript URL Shortener
+Shortster Backend
 </p>

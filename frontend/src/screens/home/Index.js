@@ -73,7 +73,7 @@ function Home() {
   return (
     <div className="w3-padding-large w3-center">
       <b className="w3-jumbo text-color-main">
-        Your Favourite URL <br></br>Shortener
+        Your URL for Shortster
       </b>
       <br></br>
       {errorDisplay ? <Error>{errorDisplay}</Error> : ""}
@@ -86,7 +86,7 @@ function Home() {
           setCopy(false);
         }}
         value={inputValue ? inputValue : content}
-        placeholder="https://example.com/exam/699979/io89"
+        placeholder="https://example.com/shortster/941104/k126"
         className=""
         style={{ minWidth: "70%", height: "50px", marginBottom: "50px" }}
       />
@@ -106,10 +106,6 @@ function Home() {
         handleCopy={copyToClipboard}
         type={copy}
       />
-      <p className="text-color-main w3-large">
-        You can access your link’s basic analytics by appending “stats” keyword
-        to your link. e.g www.link.com/y6JF67f/stats
-      </p>
     </div>
   );
 }
