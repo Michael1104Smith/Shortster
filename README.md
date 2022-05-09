@@ -1,6 +1,5 @@
 # Shortster
 
-<p>A fullstack link shortner web application based on MERN Stack</p>
 <br>
 <a href="#backend">Backend</a><br>
 <a href="#frontend">Frontend</a>
@@ -30,6 +29,7 @@ Run tests with <code>npm test</code>
 <br>
 <br>
 <div id="frontend">
+This frontend uses React.
 <ul>
 <li>navigate to the frontend sub directory <code>cd frontend</code></li><br>
 <li>install dependencies by running <code>yarn or npm install   /</code></li><br>
