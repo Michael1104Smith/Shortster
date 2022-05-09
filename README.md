@@ -3,8 +3,6 @@
 <p>A fullstack link shortner web application based on MERN Stack</p>
 <br>
 <a href="#backend">Backend</a><br>
-<a href="#api">API Docs</a>
-
 <a href="#frontend">Frontend</a>
 
 <br>
@@ -27,9 +25,6 @@ Run tests with <code>npm test</code>
 
 </div>
 
-<br>
-<div id="api">
-  <b>Documentation<b><br>
 <br>
 </div>
 <br>
